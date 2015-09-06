@@ -1,0 +1,39 @@
+.bottom {
+    margin-top: 400px;
+}
+
+.parallax-container {
+    height: 500px;
+}
+
+.sectional-styles {
+    padding-bottom: 10%;
+    border-bottom: 1px solid black 80%;
+}
+
+.card {
+    margin-bottom: 5%;
+}
+
+.first-section {
+    margin-top: 100px;
+}
+
+.social-icon {
+    height: 100px;
+}
+
+.bh-logo {
+    font-size: 2rem;
+    padding: 0 0 0 5%;
+}
+
+.quote-slider {
+    height: 500px;
+    font-style: italic;
+}
+
+.section-header {
+
+}
+
