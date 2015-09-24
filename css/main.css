@@ -33,7 +33,72 @@
     font-style: italic;
 }
 
-.section-header {
+.job-workplace {
+    padding: 3%;
+    margin: 0;
+    font-size: 2rem;
+}
 
+.job-title {
+    font-size: 1.5rem;
+}
+
+.job-tasks {
+    font-size: 1.2rem;
+    border-bottom: 1px solid grey;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    font-style: italic;
+}
+
+.job-tasks:last-child {
+    margin-bottom: 0;
+}
+
+.job-task-list {
+    padding: 5%;
+}
+
+.quote-author {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.education-sponsor {
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+.education-task-list {
+    padding: 0 0 0 2%;
+}
+
+.education-task {
+    list-style-type: square;
+}
+
+.responsive-img-header {
+    height: auto;
+    width: 100%;
+}
+
+@media (min-width: 0px) and (max-width: 800px) {
+    .parallax-container {
+        height: 300px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 2200px) {
+    .parallax-container {
+        height: 700px;
+    }
+}
+
+.down-arrow-btn {
+    display: block;
+    position: absolute;
+    margin: 0 49%;
+    bottom: 50px;
 }
 
