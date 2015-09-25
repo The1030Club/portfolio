@@ -41,6 +41,8 @@
 
 .job-title {
     font-size: 1.5rem;
+    margin-bottom: 15px;
+    font-weight: bold;
 }
 
 .job-tasks {
@@ -95,10 +97,4 @@
     }
 }
 
-.down-arrow-btn {
-    display: block;
-    position: absolute;
-    margin: 0 49%;
-    bottom: 50px;
-}
 
